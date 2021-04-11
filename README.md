@@ -25,8 +25,7 @@ If the physical copy of the Hiro marker is not available, ust kept the marker ta
 * ->Head to the [site](https://fearless-modern-jujube.glitch.me/)
 * ->It will ask for camera permissions. Click on ALLOW.
 *(The required permissions are neede to be given in order to cappture the image and then visualize it in 3-D)*
-* ->Use the Hiro marker (given below) to visualize the 3-D object. Make sure that there must be some while space available around the marker, so that it can be recognized.
-
+* ->Use the physical copy of the Hiro marker (given below) and keep it in front of the  webcam  to visualize the 3-D object. Make sure that there must be some white space available around the marker, so that it can be recognized.
 ![Hiro Marker](https://i.stack.imgur.com/5cahN.png)
 
 ## Limitations
