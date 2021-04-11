@@ -1,5 +1,5 @@
 # Look-Into-Form
-`Use Look Into Form to teach mathematics in a more efficient way.`
+`Use Look Into Form to teach geometry and shapes in a more efficient way.`
 
 ![visualize](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2AJAAW0Pl5A5inonQVaMlKpgna_yTtOLkA&usqp=CAU)
 
@@ -24,7 +24,7 @@ If the physical copy of the Hiro marker is not available, ust kept the marker ta
 ## Limitations
 * Use the marker below along with the Hiro marker on it's center to visualize the 3-D object.
 
-![marker](""C:/Users/HY/Downloads/multi-pattern-template-abcdgf.png"")
+![marker]("C:/Users/HY/Downloads/multi-pattern-template-abcdgf.png")
 
 * The Hiro marker (given below) alone can also be used, but there must be some while space available around the marker, so that it can be recognized.
 
@@ -42,4 +42,5 @@ If the physical copy of the Hiro marker is not available, ust kept the marker ta
 ## Built with:
 ![A-Frame library](https://upload.wikimedia.org/wikipedia/commons/9/92/A-Frame_logo.png)
 <p>
-![HTML5](http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png)
+  
+![HTML5](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png)
