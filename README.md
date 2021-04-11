@@ -21,15 +21,15 @@ This AR tool wants to enhance teacher's capabilities and provide possibilities t
 If the physical copy of the Hiro marker is not available, ust kept the marker tab open in laptop, and run the site using mobile phone to visualize any object.
 [site-link](https://fearless-modern-jujube.glitch.me/)
 
-## Limitations
-* Use the marker below along with the Hiro marker on it's center to visualize the 3-D object.
-
-![marker]("C:/Users/HY/Downloads/multi-pattern-template-abcdgf.png")
-
-* The Hiro marker (given below) alone can also be used, but there must be some while space available around the marker, so that it can be recognized.
+## How to Use
+* ->Head to the [site](https://fearless-modern-jujube.glitch.me/)
+* ->It will ask for camera permissions. Click on ALLOW.
+*(The required permissions are neede to be given in order to cappture the image and then visualize it in 3-D)*
+* ->Use the Hiro marker (given below) to visualize the 3-D object. Make sure that there must be some while space available around the marker, so that it can be recognized.
 
 ![Hiro Marker](https://i.stack.imgur.com/5cahN.png)
 
+## Limitations
 * One can use a 3D Model based on his/her choice, but the model should be in *GLTB* format. That is, the file extension should be .glb
 * While adding a different model for visualization, it should be added particularly in the "assets" folder only.
 * If the project is used for visualizing different shapes, then the particular shape can be added to the code by changing the current shape, which is the cube.
